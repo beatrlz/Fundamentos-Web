@@ -51,6 +51,10 @@ align-items: center;
     height: 30px;
 }
 
+.ml-50 {
+    margin-left: 50px;
+}
+
 .mb-50 {
     margin-bottom: 50px;
 }
